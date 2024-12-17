@@ -1,0 +1,7 @@
+######################
+# Tweaks for apt
+# by Bruno Gonçalves Araujo <bigbruno@gmail.com>
+# licensed under GPLv2 or greater.
+# released in 7/17/2015
+
+Acquire::ForceIPv4 "true";

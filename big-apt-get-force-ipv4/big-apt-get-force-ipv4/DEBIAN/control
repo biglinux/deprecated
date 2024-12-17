@@ -1,0 +1,8 @@
+Package: big-apt-get-force-ipv4
+Version: 1.0.0-1big1
+Architecture: all
+Maintainer: Bruno Goncalves <www.biglinux.com.br>
+Section: admin
+Priority: optional
+Description: Force apt-get to use ipv4
+

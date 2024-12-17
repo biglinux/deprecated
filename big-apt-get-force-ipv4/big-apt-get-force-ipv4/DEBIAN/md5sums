@@ -1,0 +1,3 @@
+9d21d10aba36c371796263b94df63d4f  etc/apt/apt.conf.d/19force-ipv4
+c4d2e2eca86de8729e89097dd50eb4f7  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
