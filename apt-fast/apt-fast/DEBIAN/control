@@ -1,0 +1,15 @@
+Package: apt-fast
+Version: 1.8.3~144+git3a6bd77-0ubuntu1~ppa5
+Architecture: all
+Maintainer: Saikrishna Arcot <saiarcot895@gmail.com>
+Installed-Size:160
+Depends: debconf (>= 0.5) | debconf-2.0, aria2
+Suggests: aptitude
+Section: admin
+Priority: optional
+Homepage: https://github.com/ilikenwf/apt-fast.git
+Description: shellscript wrapper for apt-get or aptitude
+ apt-fast is a shellscript wrapper for apt-get that can drastically improve apt
+ download times by downloading packages in parallel, with multiple connections
+ per package.
+Original-Maintainer: Dominique Lasserre <lasserre.d@gmail.com>

@@ -1,0 +1,12 @@
+dcde77af2d26648f34619ea7dc81be5c  DEBIAN/control
+d41d8cd98f00b204e9800998ecf8427e  DEBIAN/md5sums
+534e3da429d4f3453fea4edd78a4ab75  usr/sbin/apt-fast
+4b18be3d048db1efe79550e1c6852a58  usr/share/lintian/overrides/apt-fast
+bb5d4fe824e769f6ec1dccd02141b686  usr/share/doc/apt-fast/copyright
+4b5a513a30b37b8d357f391e3349a16d  usr/share/doc/apt-fast/README.Debian
+5efb8ca96f57614437d9cce8855b0cbb  usr/share/doc/apt-fast/changelog.Debian.gz
+3ebfb7e7eb11f6c236c8e0a3102a07d5  usr/share/man/man5/apt-fast.conf.5.gz
+042654ddf9a8fcb74791efc72de7c686  usr/share/man/man8/apt-fast.8.gz
+2081777bb80d345866c63256b116b6a7  usr/share/zsh/functions/Completion/Debian/_apt-fast
+450db446c436ec2fe43b0ce26819318a  usr/share/bash-completion/completions/apt-fast
+8c03228ab18620073c901019f107ba06  etc/apt-fast.conf
